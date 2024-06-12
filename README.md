@@ -21,10 +21,10 @@
 <p align=center >
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=EFEELE&theme=react&hide_border=true&border_radius=25&stroke=78ECFD&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&sideNums=78ECFD&dates=FDFDFD&sideLabels=78ECFD&background=26272D" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=EFEELE&theme=react&hide_border=true&border_radius=25&stroke=78ECFD&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&sideNums=78ECFD&dates=FDFDFD&sideLabels=78ECFD&background=26272D&count_private=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=EFEELE&show_icons=true&theme=react&hide_border=true&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&background=26272D" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=EFEELE&count_private=true&show_icons=true&theme=react&hide_border=true&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&background=26272D" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
