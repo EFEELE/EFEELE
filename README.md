@@ -21,10 +21,10 @@
 <p align=center >
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=EFEELE&theme=react&hide_border=true&border_radius=25&stroke=78ECFD&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&sideNums=78ECFD&dates=FDFDFD&sideLabels=78ECFD&background=26272D&count_private=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=EFEELE&theme=react&hide_border=false&count_private=tru&border_radius=25&stroke=78ECFD&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&sideNums=78ECFD&dates=FDFDFD&sideLabels=78ECFD&background=26272D&bg_color=26272D&count_private=true&border=AC7BF9" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=EFEELE&count_private=true&show_icons=true&theme=react&hide_border=true&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&background=26272D" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=EFEELE&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -32,11 +32,7 @@
 
 ![EFEELE github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=EFEELE)
 
- <p align=center>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EFEELE&theme=react-dark&bg_color=26272D&hide_border=true&border_radius=25" width="100%"/>
- </p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EFEELE&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![EFEELE github-trophies](https://stats.dooboo.io/api/github-trophies?login=EFEELE)
 
