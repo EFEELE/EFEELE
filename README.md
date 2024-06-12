@@ -34,8 +34,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EFEELE&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![EFEELE github-trophies](https://stats.dooboo.io/api/github-trophies?login=EFEELE)
-
+![github-trophies](https://stats.dooboo.io/api/github-trophies?login=EFEELE)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/efeeledev"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efeeledev" /></a></p><br><br>
