@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=efeele&label=Profile%20views&color=0e75b6&style=flat" alt="efeele" /> </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <table align="center" >
   <tr>
