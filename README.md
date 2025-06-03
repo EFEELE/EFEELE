@@ -52,8 +52,8 @@
 <br>
 <p align=center >
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=EFEELE&theme=react&hide_border=false&count_private=tru&border_radius=25&stroke=78ECFD&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&sideNums=78ECFD&dates=FDFDFD&sideLabels=78ECFD&background=26272D&bg_color=26272D&count_private=true&border=AC7BF9&locale=es&exclude_days=Sun%2CSat" alt="zumrudu-anka" />
+    <a href="https://git.io/streak-stats">
+      <img align="left" width=390 src="https://github-readme-streak-stats-amber-two.vercel.app?user=EFEELE&count_private=true&theme=react&border_radius=25&exclude_days=Sun%2CSat&border=AC7BF9&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&background=26272D&stroke=78ECFD&excludeDaysLabel=26272D" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats-chi-sand-68.vercel.app/api?username=EFEELE&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
@@ -62,7 +62,7 @@
   <br><br><br><br><br><br><br><br><br>
  </p>
 
-![EFEELE github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=EFEELE)
+![EFEELE github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=EFEELE&count_private=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EFEELE&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
