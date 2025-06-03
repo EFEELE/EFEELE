@@ -53,10 +53,10 @@
 <p align=center >
   <div align=center>
     <a href="https://git.io/streak-stats">
-      <img align="left" width=390 src="https://github-readme-streak-stats-amber-two.vercel.app?user=EFEELE&count_private=true&theme=react&border_radius=25&exclude_days=Sun%2CSat&border=AC7BF9&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&background=26272D&stroke=78ECFD&excludeDaysLabel=26272D" alt="GitHub Streak" />
+      <img align="left" width=390 src="https://github-readme-streak-stats-amber-two.vercel.app?user=EFEELE&count_private=true&theme=react&dates=EBEBEB6D&&border_radius=25&exclude_days=Sun%2CSat&border=AC7BF9&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&background=26272D&stroke=78ECFD&excludeDaysLabel=26272D&include_all_commits=true" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats-chi-sand-68.vercel.app/api?username=EFEELE&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
+      <img align="right" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=EFEELE&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
