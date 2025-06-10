@@ -55,7 +55,7 @@
 <h2 align="center">🌐 Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/efeele/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/hello@efeele.dev-white?style=for-the-badge&logo=gmail" /></a>
+<a href="mailto:hello@efeele.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/hello@efeele.dev-white?style=for-the-badge&logo=gmail" /></a>
 <a href="https://www.youtube.com/c/efeeledev" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://codepen.io/efeele" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
