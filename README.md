@@ -1,9 +1,3 @@
-<a target="_blank" href="https://efeele.dev">
-
-![bannergithub](https://github.com/EFEELE/EFEELE/assets/34411748/9d7c6015-befa-4fc9-81bc-ce52ff5d3a65)
-
-</a>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=EFEELE&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EFEELE?style=for-the-badge&logo=github&color=ffca28">
 </p>
 <h1 align="center">Hi 👋, I'm Fernando Lopez</h1>
@@ -81,4 +75,11 @@
 ![github-trophies](https://stats.dooboo.io/api/github-trophies?login=EFEELE)
   
 <h2 align="center">☕ Support:</h2>
-<p align="center"><a href="https://www.buymeacoffee.com/efeeledev"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efeeledev" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/efeeledev"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efeeledev" /></a></p>
+
+<a target="_blank" href="https://efeele.dev">
+
+![bannergithub](https://github.com/EFEELE/EFEELE/assets/34411748/9d7c6015-befa-4fc9-81bc-ce52ff5d3a65)
+
+</a>
+<br><br>
