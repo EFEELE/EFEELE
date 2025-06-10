@@ -1,10 +1,12 @@
 ![bannergithub](https://github.com/EFEELE/EFEELE/assets/34411748/9d7c6015-befa-4fc9-81bc-ce52ff5d3a65)
-<h1 align="center">Hi 👋, I'm Fernando Lopez</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=EFEELE&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EFEELE?style=for-the-badge&logo=github&color=ffca28">
 </p>
-<h3 align="center">Tech Stack:</h3>
+<h1 align="center">Hi 👋, I'm Fernando Lopez</h1>
+<h3 align="center">A passionate frontend developer from Mexico</h3>
+
+<h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -50,19 +52,14 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
-<br>
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">🌐 Connect with me:</h2>
 <p align="center">
-<a href="https://codepen.io/efeele" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="efeele" height="30" width="40" /></a>
-<a href="https://instagram.com/efeele.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efeele.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/efeeledev" target="_bblank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="efeeledev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/efeele/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/hello@efeele.dev-white?style=for-the-badge&logo=gmail" /></a>
+<a href="https://www.youtube.com/c/efeeledev" target="_bblank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://codepen.io/efeele" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
-
-
-<br>
-<br>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center >
   <div align=center>
     <a href="https://git.io/streak-stats">
@@ -72,7 +69,7 @@
       <img align="right" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=EFEELE&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  
  </p>
 
 ![EFEELE github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=EFEELE&count_private=true)
@@ -81,6 +78,5 @@
 
 ![github-trophies](https://stats.dooboo.io/api/github-trophies?login=EFEELE)
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/efeeledev"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efeeledev" /></a></p><br><br>
+<h2 align="center">☕ Support:</h2>
+<p align="center"><a href="https://www.buymeacoffee.com/efeeledev"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efeeledev" /></a></p><br><br>
