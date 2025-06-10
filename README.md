@@ -69,14 +69,13 @@
       <img align="right" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=EFEELE&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
     </a>
   </div>
-  
  </p>
 
 ![EFEELE github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=EFEELE&count_private=true)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EFEELE&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ 
 ![github-trophies](https://stats.dooboo.io/api/github-trophies?login=EFEELE)
-
+  
 <h2 align="center">☕ Support:</h2>
 <p align="center"><a href="https://www.buymeacoffee.com/efeeledev"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efeeledev" /></a></p><br><br>
