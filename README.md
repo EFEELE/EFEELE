@@ -1,7 +1,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=EFEELE&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EFEELE?style=for-the-badge&logo=github&color=ffca28">
 </p>
 <h1 align="center">Hi 👋, I'm Fernando Lopez</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate frontend developer from Mexico 💻 </h3>
 
 <h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
